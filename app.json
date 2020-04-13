@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "KBM",
+    "slug": "KBM",
+    "privacy": "public",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.jkb.kbm",
+      "versionCode": 1
+    },
+    "orientation": "portrait",
+    "icon": "./assets/defaultIcon.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
