@@ -32,7 +32,7 @@ export default function App() {
     <View style={{flex: 1}}>
         <StatusBar hidden={true}/>
         <WebView
-          source={{ uri: 'https://wesd724.github.io/src/kbMap/map.html' }}
+          source={{ uri: 'https://wesd724.github.io/kbMap/map.html' }}
           style={{ flex: 1 }}
         />
       </View>
